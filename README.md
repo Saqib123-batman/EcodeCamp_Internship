@@ -1,1 +1,1 @@
-# EcodeCamp_Internship
+# EcodeCamp_Internship_task1_SimpleCalculator
