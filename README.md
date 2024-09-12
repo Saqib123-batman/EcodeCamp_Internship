@@ -1,2 +1,3 @@
 # EcodeCamp_Internship_task1_SimpleCalculator
 # EcodeCamp_Internship_task2_ToDoList
+# EcodeCamp_Internship_task3_Simple_Quiz_Game
